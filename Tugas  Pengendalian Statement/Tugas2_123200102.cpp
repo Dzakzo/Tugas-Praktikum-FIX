@@ -59,7 +59,7 @@ int main(int argc, char const *argv[])
 	
 
 	
-	total = tagihan1 + tagihan2 + tagihan3 + tagihan4;
+	total = 30*(tagihan1 + tagihan2 + tagihan3 + tagihan4);
 
 	cout << "jumlah tagihan per bulan = Rp " << total << endl;
 	return 0;
